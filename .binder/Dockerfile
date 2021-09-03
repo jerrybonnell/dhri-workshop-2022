@@ -1,4 +1,4 @@
-FROM rocker/tidyverse
+FROM rocker/tidyverse:3.6.3
 LABEL maintainer='jerry bonnell'
 USER root
 COPY . ${HOME}
