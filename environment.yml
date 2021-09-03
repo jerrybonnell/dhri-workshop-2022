@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.1.1
+  - r-tidyverse
+  - r-tidytext
+  - r-tm
+  - r-quanteda
+  - r-shinydashboard
+  - r-learnr
+  - r-nycflights13
+  - r-Lahman
