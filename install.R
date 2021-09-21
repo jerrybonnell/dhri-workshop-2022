@@ -1,6 +1,0 @@
-install.packages("learnr", repos='http://cran.us.r-project.org')
-install.packages("tidyverse", repos='http://cran.us.r-project.org')
-install.packages("tidytext", repos='http://cran.us.r-project.org')
-install.packages("tm", repos='http://cran.us.r-project.org')
-install.packages("quanteda", repos='http://cran.us.r-project.org')
-install.packages("gutenbergr", repos='http://cran.us.r-project.org')
