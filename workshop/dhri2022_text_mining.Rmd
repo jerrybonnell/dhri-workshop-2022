@@ -123,7 +123,7 @@ We can actually retrieve all these texts at once using the `gutenberg_download()
 
 ```{r}
 gutenberg_ids <- c(11231, 15, 10712, 1900)
-melville <- gutenberg_download(gutenberg_ids)
+melville <- gutenberg_download(gutenberg_ids, mirror = "http://mirrors.xmission.com/gutenberg/")
 melville
 ```
 
