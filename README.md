@@ -1,7 +1,14 @@
 # dhri-workshop-2022
 
 <!-- badges: start -->
-[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jerrybonnell/dhri-workshop-2022/main?urlpath=shiny/workshop/)
+
+
+Jupyter+R: [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jerrybonnell/dhri-workshop-2022/main?filepath=jupyter/dhri2022_text_mining.ipynb)
+
+RStudio: [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jerrybonnell/dhri-workshop-2022/main?urlpath=rstudio)
+
+RShiny: [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jerrybonnell/dhri-workshop-2022/main?urlpath=shiny/rshiny/)
+
 <!-- badges: end -->
 
 
