@@ -1,0 +1,2 @@
+Rscript -e 'install.packages("gutenbergr", repos="https://cloud.r-project.org")'
+Rscript -e 'install.packages("textdata", repos="https://cloud.r-project.org")'

@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - r-tidyverse
+  - r-learnr
+  - r-tidytext
+  - r-tm
+  - r-reshape2
+  - r-wordcloud
+  - r-quanteda
